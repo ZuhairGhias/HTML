@@ -1,0 +1,47 @@
+body{
+	padding-top: 70px;
+}
+
+input {
+    text-align: center;
+}
+
+.jumbotron{
+	color: #2c3e50;
+}
+
+.navbar-inverse{
+	color: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+.QuestionHeader {
+}
+.QuestionBox {
+    margin:0 20%;
+}
+.Question {
+}
+.Answer {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    align-content: center;
+}
+.fa-question-circle {
+    margin-left: 10px;
+    transform: scale(1.5);
+}
+.btn {
+    margin: 10px 5px 0px 0px;
+}
+
+.QuestionNumber {
+    border-right: 1px dashed #333;
+}
